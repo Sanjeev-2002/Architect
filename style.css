@@ -279,8 +279,21 @@ body {
 }
 
 .msg-btn {
-    margin-top: 1rem;
+    margin: 1rem 0;
     background-color: black;
     color: white;
     padding: 0.50rem 1rem;
+}
+
+.location-conatiner img {
+    margin-top: 2rem;
+    margin-bottom: 0.40rem;
+    width: 100%;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
 }
